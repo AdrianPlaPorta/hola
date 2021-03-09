@@ -20,6 +20,7 @@ import javax.swing.JOptionPane;
  */
 public class Control {
     //Atributos
+    
     public static ArrayList<Persona> misPersonas = new ArrayList<Persona>();
     public static ArrayList<Alumno> misAlumnos = new ArrayList<Alumno>();
     public static ArrayList<Profesor> misProfesores = new ArrayList<Profesor>();
